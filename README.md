@@ -2,6 +2,9 @@
 
 This project is a **machine learning-powered web application** that predicts the **selling price of a residential property** based on user inputs. Built using **Streamlit**, it provides a clean, interactive interface and is backed by a trained **Random Forest Regression model** for accurate predictions.
 
+## To run the app
+https://amira-aladra-house-prediction-app.streamlit.app/
+
 ---
 
 ## 🚀 Project Overview
